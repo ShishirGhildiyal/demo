@@ -25,8 +25,6 @@ This repo is intended for:
 - YAML / JSON
 - Bash / Python (where applicable)
 
-## 📄 License
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
