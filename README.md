@@ -24,8 +24,6 @@ This repo is intended for:
 - Markdown
 - YAML / JSON
 - Bash / Python (where applicable)
-
-
 ---
 
 Feel free to clone, explore, and contribute!
